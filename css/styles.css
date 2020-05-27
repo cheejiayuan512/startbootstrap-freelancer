@@ -10287,6 +10287,7 @@ header video {
 header .container {
   position: relative;
   z-index: 2;
+  height: 50vh;
 }
 
 header .overlay {
